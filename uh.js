@@ -84,5 +84,5 @@ harga : 9000,
 let filterBuah = buah.filter ((buah) => buah.adaBiji === "tidak ada biji");
 console.log("soal no 6");
 console.log(filterBuah);
-console.log(buah.sort());
+
 
